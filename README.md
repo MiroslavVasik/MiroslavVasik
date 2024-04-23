@@ -3,9 +3,9 @@
 - 👀 I’m interested in Digital Humanities
 - 🌱 I’m currently learning basics of xml programing language
 - 💞️ I’m looking to collaborate on creating of Digital Edition
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach here
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: there is no relevant fun fact
 
 <!---
 MiroslavVasik/MiroslavVasik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
